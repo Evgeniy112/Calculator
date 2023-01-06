@@ -23,5 +23,3 @@ if b != 0:
     print(f"{a}/{b}={division}")
 else:
     print(division)
-
-    # Привет
